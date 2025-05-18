@@ -36,3 +36,5 @@ deepseek: Glimmer
 
 not all of the languages actually worked, the one that impressed me the most was google with its aura language, it is just a REPL from what I am seeing, but it is pretty impressive,
 grok with dailyscript had the best syntax language syntax wise, but it just made me a lexer.
+
+Feel free to make the broken languages actually work, I will be happy to merge them into the main repo.

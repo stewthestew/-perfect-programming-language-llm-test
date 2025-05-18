@@ -25,9 +25,13 @@ and google gemini split them into multiple files, which I didn't like, so I resp
 The llm's were asked to name their language, and this is what they came up with:
 
 grok: DailyScript
+
 gemini: Aura
+
 chatgpt: GoScript
+
 claude: Flow
+
 deepseek: Glimmer
 
 not all of the languages actually worked, the one that impressed me the most was google with its aura language, it is just a REPL from what I am seeing, but it is pretty impressive,
